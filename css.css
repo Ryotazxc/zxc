@@ -1,0 +1,44 @@
+header{
+	background-color: #333;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+h1{
+	color: black;
+	text-align: center;
+	padding: 20px;
+}
+
+title{
+	color: white;
+}
+
+h2{
+	color: black;
+	text-align: center;
+	padding: 20px;
+}
+
+p{
+	color: black;
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+}
+
+body{
+	background-color: silver;
+}
+
+b{
+	text-align: center;
+}
+
+footer{
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+}
